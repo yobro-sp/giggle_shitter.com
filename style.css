@@ -1,0 +1,40 @@
+
+/* --------- style.css --------- */
+body {
+	margin: 0px;
+    background-image: url(711222d2a5c1748e382c9e3deec7738b.jpg);
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#box1{
+	border: 5px solid;
+	width: 250px;
+	height: 250px;
+	font-family: "press Start 2P";
+    font-size: 11px;
+	background:linear-gradient(skyblue,white);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    /*
+	margin-top: 50px;
+	margin-left: 50px;
+	margin-bottom: 50px;
+	margin-right: 50px;
+	
+	margin: 50px;
+	*/
+	margin-right: auto;
+	margin-left: auto;
+}
+#box2{
+	border: 5px solid;
+	width: 250px;
+	height: 250px;
+    font-family: "press Start 2P";
+    font-size: 11px;
+    background:linear-gradient(skyblue,white);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
