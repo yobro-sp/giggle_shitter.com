@@ -1,8 +1,8 @@
 body{
-    background-image: url(images\ \(4\).jpeg);
-    background-size: cover;
+    background-image: url(1382576.png);
     background-repeat: no-repeat;
     background-attachment: fixed;
+    background-size: cover;
 }
 h1{
     color:rgb(110, 108, 108);
@@ -21,6 +21,7 @@ table{
     font-weight: bolder;
     padding: 5px;
     color: rgb(37, 37, 37);
+    font-family: "cute font";
 }
 th{
     background: linear-gradient(rgb(253, 205, 213),white);
@@ -29,18 +30,22 @@ th{
     padding-right: 20px;
     
 }
-button{
-    width: 50px;
-    height: 50px;
+#button{
+    width: 60px;
+    height: 60px;
     background: rgb(255, 158, 174);
     position:relative;
-    top: 100px;
+    top: 110px;
     left: 10px;
 }
-button:hover{
+#button:hover{
     background: rgb(253, 122, 144);
+    border-image: 1px;
 }
 img{
-    width: 30px;
-    height: 30px;
+    width: 60px;
+    height: 60px;
+    position: relative;
+    top: -4px;
+    left: -9px;
 }
